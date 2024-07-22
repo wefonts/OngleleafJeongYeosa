@@ -1,1 +1,16 @@
-# OngleleafJeongYeosa
+<pre>
+@font-face {
+    font-family: "OngleleafJeongYeosa";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafJeongYeosa/OngleleafJeongYeosa.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafJeongYeosa/OngleleafJeongYeosa.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafJeongYeosa/OngleleafJeongYeosa.ttf") format("truetype");
+    font-display: swap;
+}
+
+.OngleleafJeongYeosa {
+    font-family: "OngleleafJeongYeosa";
+}
+  
+</pre>
